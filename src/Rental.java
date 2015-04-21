@@ -30,7 +30,4 @@ class Rental {
 		}
 		return result;
 	}
-
-
-
 }
