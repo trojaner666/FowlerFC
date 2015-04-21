@@ -12,7 +12,7 @@ class Customer {
 		rentals.addElement(arg);
 	};
 	public String getName (){
-		return name;
+		return 0;
 	};
 	public String statement() {
 		double totalAmount = 0;
